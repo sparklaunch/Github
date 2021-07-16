@@ -1,5 +1,4 @@
 # Github (백업 툴로서의 Git)
-
 PC 간의 동기화를 위해 클라우드 시스템의 필요성이 대두됨. 버전 관리, 백업 매체, 협업 툴로서 Github이 각광을 받고 있음.
 
 <br>
@@ -53,3 +52,7 @@ PC 간의 동기화를 위해 클라우드 시스템의 필요성이 대두됨. 
 >
 > 후에 `git merge [branch name]` 으로 Merge.
 
+<br>
+
+\* 깃허브의 마스코트인 옥토캣(Octocat).
+![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
